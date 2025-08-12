@@ -50,8 +50,17 @@ A curated list of resources for Metaverse Markup Language (MML): tools, docs, ed
 - **[MML Blog](https://mml.io/blog):**  
   Stay updated with the latest news, tutorials, and announcements related to MML.
 
+- **[MSquared Blog](https://msquared.io/blog/):**  
+  News and updates from MSquared, with frequent MML-related updates.
+
+- **[Introducing Crowd Support in Web Worlds](https://msquared.io/blog/introducing-crowd-support-in-web-worlds):**  
+  Mass concurrency and Crowd Support in MML.
+
 - **[AI-Powered NPC with MML](https://mml.io/blog/ai-powered-npc):**  
   Guide on integrating AI to power NPCs using MML and OpenAI.
+
+- **[MSquared Atlas](https://atlas.msquared.io/things):**  
+  A live, searchable index of creators, assets, and activity across worlds and chains, with trusted snapshots and runtime policy enforcement to power interoperable MML experiences.
 
 ### Examples and Exploration
 
@@ -86,6 +95,11 @@ A curated list of resources for Metaverse Markup Language (MML): tools, docs, ed
 - **[Somnia Blockchain](https://somnia.network/):**  
   High-speed EVM blockchain with native MML support.
 
+### On-chain and State Services
+
+- **[Etherbase](https://github.com/msquared-io/etherbase):**  
+  A backend read/write service for EVM contracts that makes it easy to emit events, set state, and execute functions, plus a reader service for subscribing to events, querying state, and calling view functions on any contract. Optimized for high-throughput on chains like Somnia and designed to be MML-compatible for wiring live on-chain data into MML experiences. Includes a helper Solidity contract (Etherbase.sol), a client library, and an example frontend.
+
 ### Avatars and Rigging
 
 - **[GLTF Avatar Exporter](https://mml-io.github.io/avatar-tools/main/tools/gltf-avatar-exporter/):**  
@@ -97,6 +111,11 @@ A curated list of resources for Metaverse Markup Language (MML): tools, docs, ed
 - **[MML Blender Extension](https://github.com/mml-io/avatar-tools/blob/main/plugins/blender-geometry-utilities/mml-avatar-tools.py):**  
   Blender extension for MML avatar preparation.
 
+- **[Sandbox Converter App](https://github.com/msquared-io/sandbox-converter-app):**  
+  Web application that converts various types of The Sandbox avatars into MML-wrapped GLBs, producing assets ready to drop into MML scenes.
+
+- **[Avatar Creator](https://github.com/msquared-io/avatar-creator):**  
+  React component library for building fully-rigged 3D avatars powered by PlayCanvas, plus a minimal Next.js app as a live playground/reference integration—useful in MML pipelines.
 
 - **[Game Rig Tools](https://toshicg.gumroad.com/l/game_rig_tools):**  
   Tools for preparing game-ready rigs in Blender.
