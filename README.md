@@ -62,6 +62,9 @@ A curated list of resources for Metaverse Markup Language (MML): tools, docs, ed
 - **[MSquared Atlas](https://atlas.msquared.io/things):**  
   A live, searchable index of creators, assets, and activity across worlds and chains, with trusted snapshots and runtime policy enforcement to power interoperable MML experiences.
 
+- **[Other Page](https://other.page/):**  
+  Fan, engagement, and loyalty platform with MML support.
+
 ### Examples and Exploration
 
 - **[MML Examples](https://mml.io/examples):**  
@@ -72,6 +75,9 @@ A curated list of resources for Metaverse Markup Language (MML): tools, docs, ed
 
 - **[3D Web Experience Examples](https://mml.mgz.me/):**  
   Examples showcasing the 3D Web Experience with MML by TheCodeTherapy.
+
+- **[Crazy Run 2](https://directivecreator.com/crazyrun2):**  
+  Obstacle course game with leaderboard and achievements, created entirely in MML.
 
 ### Streaming
 
@@ -98,7 +104,7 @@ A curated list of resources for Metaverse Markup Language (MML): tools, docs, ed
 ### On-chain and State Services
 
 - **[Etherbase](https://github.com/msquared-io/etherbase):**  
-  A backend read/write service for EVM contracts that makes it easy to emit events, set state, and execute functions, plus a reader service for subscribing to events, querying state, and calling view functions on any contract. Optimized for high-throughput on chains like Somnia and designed to be MML-compatible for wiring live on-chain data into MML experiences. Includes a helper Solidity contract (Etherbase.sol), a client library, and an example frontend.
+  A backend read/write service for EVM contracts that makes it easy to emit events, set state, and execute functions. Designed to be MML-compatible for wiring live on-chain data into MML experiences.
 
 ### Avatars and Rigging
 
